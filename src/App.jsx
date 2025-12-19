@@ -2,10 +2,10 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
 import confetti from 'canvas-confetti';
 import { RefreshCw, RotateCcw, HelpCircle, Trophy, Users, Award, Share2, Calendar, Lightbulb } from 'lucide-react';
 
-const API_KEY = "AIzaSyB9w-j37PIwo01DlAZB123To9-QogGv07o";
+// API key removed for security. Backend handles AI calls.
 const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.hostname.startsWith('192.168.')
   ? "http://192.168.1.81:3001/api"
-  : "https://your-backend-url.onrender.com/api"; // UPDATE THIS AFTER DEPLOYING BACKEND
+  : "https://word-union-api.onrender.com/api";
 
 const COLORS = {
   easy: '#f9df6d',   // yellow

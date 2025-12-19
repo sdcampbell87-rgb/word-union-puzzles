@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'db.json');
-const API_KEY = "AIzaSyBnHQs1C4ynOBHjQ0zVXiTN4CV_pvcCtPI"; // Use your Gemini key here
+const API_KEY = process.env.GEMINI_API_KEY;
 
 app.use(cors());
 app.use(express.json());
