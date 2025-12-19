@@ -1,0 +1,73 @@
+{
+  "players": [
+    {
+      "name": "Scott",
+      "ip": "::ffff:192.168.1.81",
+      "level": 4,
+      "wins": 1,
+      "totalGames": 8
+    },
+    {
+      "name": "Scott",
+      "ip": "::1",
+      "level": 6,
+      "wins": 2,
+      "totalGames": 0
+    },
+    {
+      "name": "Hollie",
+      "ip": "::ffff:192.168.1.74",
+      "level": 4,
+      "wins": 3,
+      "totalGames": 1
+    }
+  ],
+  "puzzles": [
+    {
+      "id": 1766096818299,
+      "groups": [
+        {
+          "category": "Fruits that are also colors",
+          "difficulty": "easy",
+          "words": [
+            "LIME",
+            "PEACH",
+            "PLUM",
+            "ORANGE"
+          ]
+        },
+        {
+          "category": "Types of Edges or Borders",
+          "difficulty": "medium",
+          "words": [
+            "BRIM",
+            "CURB",
+            "LEDGE",
+            "LIP"
+          ]
+        },
+        {
+          "category": "Homophones of letters",
+          "difficulty": "hard",
+          "words": [
+            "EYE",
+            "SEA",
+            "WHY",
+            "BEE"
+          ]
+        },
+        {
+          "category": "Words that follow \"POTATO\"",
+          "difficulty": "tricky",
+          "words": [
+            "CHIP",
+            "SALAD",
+            "SKIN",
+            "BUG"
+          ]
+        }
+      ]
+    }
+  ],
+  "dailyPuzzles": {}
+}
