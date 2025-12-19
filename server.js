@@ -163,6 +163,16 @@ app.get('/api/puzzle', async (req, res) => {
     res.json({ groups: puzzle.groups });
 });
 
+// API: Get Server Status
+app.get('/api/status', (req, res) => {
+    const db = getDB();
+    res.json({
+        poolSize: db.puzzles.length,
+        dailyCount: Object.keys(db.dailyPuzzles).length,
+        uptime: process.uptime()
+    });
+});
+
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });

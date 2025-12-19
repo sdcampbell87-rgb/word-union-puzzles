@@ -1,30 +1,8 @@
 {
-  "players": [
-    {
-      "name": "Scott",
-      "ip": "::ffff:192.168.1.81",
-      "level": 4,
-      "wins": 1,
-      "totalGames": 8
-    },
-    {
-      "name": "Scott",
-      "ip": "::1",
-      "level": 6,
-      "wins": 2,
-      "totalGames": 0
-    },
-    {
-      "name": "Hollie",
-      "ip": "::ffff:192.168.1.74",
-      "level": 4,
-      "wins": 3,
-      "totalGames": 1
-    }
-  ],
+  "players": [],
   "puzzles": [
     {
-      "id": 1766096818299,
+      "id": 1001,
       "groups": [
         {
           "category": "Fruits that are also colors",
@@ -57,13 +35,418 @@
           ]
         },
         {
-          "category": "Words that follow \"POTATO\"",
+          "category": "Words that follow 'POTATO'",
           "difficulty": "tricky",
           "words": [
             "CHIP",
             "SALAD",
             "SKIN",
             "BUG"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "groups": [
+        {
+          "category": "Tropical Fruits",
+          "difficulty": "easy",
+          "words": [
+            "MANGO",
+            "PAPAYA",
+            "GUAVA",
+            "LYCHEE"
+          ]
+        },
+        {
+          "category": "Parts of a Car",
+          "difficulty": "medium",
+          "words": [
+            "ENGINE",
+            "BRAKE",
+            "WHEEL",
+            "CLUTCH"
+          ]
+        },
+        {
+          "category": "Computer Terms",
+          "difficulty": "hard",
+          "words": [
+            "RAM",
+            "CHIP",
+            "MOUSE",
+            "CACHE"
+          ]
+        },
+        {
+          "category": "___ BALL",
+          "difficulty": "tricky",
+          "words": [
+            "FOOT",
+            "EYE",
+            "CUE",
+            "FIRE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "groups": [
+        {
+          "category": "Colors",
+          "difficulty": "easy",
+          "words": [
+            "TEAL",
+            "MAUVE",
+            "BEIGE",
+            "CORAL"
+          ]
+        },
+        {
+          "category": "Kitchen Appliances",
+          "difficulty": "medium",
+          "words": [
+            "TOASTER",
+            "STOVE",
+            "FRIDGE",
+            "MIXER"
+          ]
+        },
+        {
+          "category": "Greek Gods",
+          "difficulty": "hard",
+          "words": [
+            "ZEUS",
+            "HERA",
+            "ARES",
+            "HADES"
+          ]
+        },
+        {
+          "category": "Flightless Birds",
+          "difficulty": "tricky",
+          "words": [
+            "EMU",
+            "KIWI",
+            "PENGUIN",
+            "OSTRICH"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "groups": [
+        {
+          "category": "Vegetables",
+          "difficulty": "easy",
+          "words": [
+            "CARROT",
+            "POTATO",
+            "ONION",
+            "PEA"
+          ]
+        },
+        {
+          "category": "Measurement Units",
+          "difficulty": "medium",
+          "words": [
+            "INCH",
+            "MILE",
+            "GRAM",
+            "LITER"
+          ]
+        },
+        {
+          "category": "Shakespeare Plays",
+          "difficulty": "hard",
+          "words": [
+            "HAMLET",
+            "OTHELLO",
+            "MACBETH",
+            "LEAR"
+          ]
+        },
+        {
+          "category": "Zodiac Signs",
+          "difficulty": "tricky",
+          "words": [
+            "ARIES",
+            "LEO",
+            "LIBRA",
+            "VIRGO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "groups": [
+        {
+          "category": "Musical Genres",
+          "difficulty": "easy",
+          "words": [
+            "JAZZ",
+            "ROCK",
+            "POP",
+            "PUNK"
+          ]
+        },
+        {
+          "category": "Furniture",
+          "difficulty": "medium",
+          "words": [
+            "CHAIR",
+            "TABLE",
+            "BED",
+            "DESK"
+          ]
+        },
+        {
+          "category": "Astronomers",
+          "difficulty": "hard",
+          "words": [
+            "GALILEO",
+            "KEPLER",
+            "HUBBLE",
+            "SAGAN"
+          ]
+        },
+        {
+          "category": "Silent Letters",
+          "difficulty": "tricky",
+          "words": [
+            "KNEE",
+            "WRIST",
+            "DEBT",
+            "GNOME"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "groups": [
+        {
+          "category": "Gems",
+          "difficulty": "easy",
+          "words": [
+            "PEARL",
+            "JADE",
+            "OPAL",
+            "ONYX"
+          ]
+        },
+        {
+          "category": "Detergents",
+          "difficulty": "medium",
+          "words": [
+            "TIDE",
+            "GAIN",
+            "CHEER",
+            "ERA"
+          ]
+        },
+        {
+          "category": "Chess Pieces",
+          "difficulty": "hard",
+          "words": [
+            "ROOK",
+            "KNIGHT",
+            "BISHOP",
+            "PAWN"
+          ]
+        },
+        {
+          "category": "Monopoly Spaces",
+          "difficulty": "tricky",
+          "words": [
+            "GO",
+            "JAIL",
+            "BOARDWALK",
+            "PARK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "groups": [
+        {
+          "category": "Flowers",
+          "difficulty": "easy",
+          "words": [
+            "ROSE",
+            "LILY",
+            "TULIP",
+            "DAISY"
+          ]
+        },
+        {
+          "category": "Soda Brands",
+          "difficulty": "medium",
+          "words": [
+            "COKE",
+            "PEPSI",
+            "SPRITE",
+            "FANTA"
+          ]
+        },
+        {
+          "category": "Scientific Tools",
+          "difficulty": "hard",
+          "words": [
+            "LASER",
+            "RADAR",
+            "SONAR",
+            "QUASAR"
+          ]
+        },
+        {
+          "category": "Dog Breeds",
+          "difficulty": "tricky",
+          "words": [
+            "PUG",
+            "BOXER",
+            "BEAGLE",
+            "HUSKY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "groups": [
+        {
+          "category": "Board Games",
+          "difficulty": "easy",
+          "words": [
+            "CHESS",
+            "RISK",
+            "CLUE",
+            "SORRY"
+          ]
+        },
+        {
+          "category": "Things that are Sharp",
+          "difficulty": "medium",
+          "words": [
+            "KNIFE",
+            "TACK",
+            "WIT",
+            "CHEDDAR"
+          ]
+        },
+        {
+          "category": "Words Starting with Musical Instruments",
+          "difficulty": "hard",
+          "words": [
+            "PIANIST",
+            "DRUMSTICK",
+            "ORCHESTRA",
+            "HARPOON"
+          ]
+        },
+        {
+          "category": "___ Chip",
+          "difficulty": "tricky",
+          "words": [
+            "POTATO",
+            "COMPUTER",
+            "POKER",
+            "BLUE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "groups": [
+        {
+          "category": "NBA Teams",
+          "difficulty": "easy",
+          "words": [
+            "JAZZ",
+            "MAGIC",
+            "KINGS",
+            "HEAT"
+          ]
+        },
+        {
+          "category": "Palindromes",
+          "difficulty": "medium",
+          "words": [
+            "KAYAK",
+            "LEVEL",
+            "RADAR",
+            "CIVIC"
+          ]
+        },
+        {
+          "category": "Types of Clouds",
+          "difficulty": "hard",
+          "words": [
+            "CIRRUS",
+            "STRATUS",
+            "CUMULUS",
+            "NIMBUS"
+          ]
+        },
+        {
+          "category": "Words Spelled with Periodic Table Symbols",
+          "difficulty": "tricky",
+          "words": [
+            "BANANA",
+            "CUBIC",
+            "FEAR",
+            "RUSH"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "groups": [
+        {
+          "category": "Solar System Bodies",
+          "difficulty": "easy",
+          "words": [
+            "MARS",
+            "VENUS",
+            "EARTH",
+            "SATURN"
+          ]
+        },
+        {
+          "category": "Things with Teeth",
+          "difficulty": "medium",
+          "words": [
+            "SAW",
+            "COMB",
+            "GEAR",
+            "ZIPPER"
+          ]
+        },
+        {
+          "category": "Homophones for Numbers",
+          "difficulty": "hard",
+          "words": [
+            "TO",
+            "FOR",
+            "ATE",
+            "WON"
+          ]
+        },
+        {
+          "category": "States of Matter",
+          "difficulty": "tricky",
+          "words": [
+            "SOLID",
+            "LIQUID",
+            "GAS",
+            "PLASMA"
           ]
         }
       ]
