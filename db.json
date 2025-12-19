@@ -450,6 +450,4056 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1766111538871,
+      "groups": [
+        {
+          "category": "Terms for Internet Lag",
+          "difficulty": "easy",
+          "words": [
+            "PING",
+            "LATENCY",
+            "LAG",
+            "SPIKE"
+          ]
+        },
+        {
+          "category": "Things Found in a Phone's Notch",
+          "difficulty": "medium",
+          "words": [
+            "SPEAKER",
+            "CAMERA",
+            "SENSOR",
+            "MICROPHONE"
+          ]
+        },
+        {
+          "category": "E-Sports Game Genres",
+          "difficulty": "hard",
+          "words": [
+            "MOBA",
+            "RTS",
+            "FPS",
+            "FIGHTER"
+          ]
+        },
+        {
+          "category": "Words that Precede 'CORE'",
+          "difficulty": "tricky",
+          "words": [
+            "METAL",
+            "HARD",
+            "GLITCH",
+            "APPLE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111542500,
+      "groups": [
+        {
+          "category": "Terms for an AI Model's Response",
+          "difficulty": "easy",
+          "words": [
+            "OUTPUT",
+            "GENERATION",
+            "INFERENCE",
+            "PREDICTION"
+          ]
+        },
+        {
+          "category": "Characters Added to Standard QWERTY",
+          "difficulty": "medium",
+          "words": [
+            "HASHTAG",
+            "DOLLAR",
+            "AMPERSAND",
+            "AT"
+          ]
+        },
+        {
+          "category": "Words Spelled the Same Upside Down",
+          "difficulty": "hard",
+          "words": [
+            "NOON",
+            "SWIMS",
+            "MOW",
+            "SIS"
+          ]
+        },
+        {
+          "category": "Things that are 'Plaid' (Homophone Link)",
+          "difficulty": "tricky",
+          "words": [
+            "APPLAUD",
+            "SUPPLIED",
+            "DISPLAYED",
+            "IMPLIED"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111545739,
+      "groups": [
+        {
+          "category": "Verbs for Editing Digital Media",
+          "difficulty": "easy",
+          "words": [
+            "TRIM",
+            "CROP",
+            "FILTER",
+            "ADJUST"
+          ]
+        },
+        {
+          "category": "Things Found in an Emoji Keyboard",
+          "difficulty": "medium",
+          "words": [
+            "FLAG",
+            "SKIN TONE",
+            "SEARCH BAR",
+            "RECENTS"
+          ]
+        },
+        {
+          "category": "Words that Precede 'STREAMER'",
+          "difficulty": "hard",
+          "words": [
+            "TWITCH",
+            "GAME",
+            "TROUT",
+            "GHOST"
+          ]
+        },
+        {
+          "category": "Words Spelled with Roman Numerals (I, V, X, L, C, D, M)",
+          "difficulty": "tricky",
+          "words": [
+            "CIVIL",
+            "MIXED",
+            "MILK",
+            "MALL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111552722,
+      "groups": [
+        {
+          "category": "Terms for Removing Content Online",
+          "difficulty": "easy",
+          "words": [
+            "SCRUB",
+            "DELETE",
+            "ARCHIVE",
+            "WIPE"
+          ]
+        },
+        {
+          "category": "Words Starting with Silent 'K'",
+          "difficulty": "medium",
+          "words": [
+            "KNOCK",
+            "KNEAD",
+            "KNIFE",
+            "KNOT"
+          ]
+        },
+        {
+          "category": "Things That Can Be 'Minis'",
+          "difficulty": "hard",
+          "words": [
+            "WHEAT",
+            "SKIRT",
+            "GOLF",
+            "APPLE"
+          ]
+        },
+        {
+          "category": "Verbs Often Used in Programming Comments",
+          "difficulty": "tricky",
+          "words": [
+            "TODO",
+            "FIXME",
+            "HACK",
+            "NOTE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111556083,
+      "groups": [
+        {
+          "category": "Words that can follow 'CULTURAL'",
+          "difficulty": "easy",
+          "words": [
+            "SHIFT",
+            "CONTEXT",
+            "APPROPRIATION",
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "category": "Terms for a specific type of Online Influencer",
+          "difficulty": "medium",
+          "words": [
+            "BOOKFLUENCER",
+            "FINFLUENCER",
+            "CLEANFLUENCER",
+            "MOMFLUENCER"
+          ]
+        },
+        {
+          "category": "Words often mistaken for acronyms (Initialism)",
+          "difficulty": "hard",
+          "words": [
+            "ASAP",
+            "TASER",
+            "SCUBA",
+            "RADAR"
+          ]
+        },
+        {
+          "category": "Components of an HTML <head> tag",
+          "difficulty": "tricky",
+          "words": [
+            "TITLE",
+            "LINK",
+            "SCRIPT",
+            "META"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111561869,
+      "groups": [
+        {
+          "category": "Types of Unboxing Videos",
+          "difficulty": "easy",
+          "words": [
+            "HAUL",
+            "LUXURY",
+            "MYSTERY",
+            "ASMR"
+          ]
+        },
+        {
+          "category": "Homophones of Single Alphabet Letters (S, I, B, U)",
+          "difficulty": "tricky",
+          "words": [
+            "SEW",
+            "EYE",
+            "BEE",
+            "YOU"
+          ]
+        },
+        {
+          "category": "Software Licensing Models",
+          "difficulty": "medium",
+          "words": [
+            "TIERED",
+            "FREEMIUM",
+            "PERPETUAL",
+            "CONSUMPTION"
+          ]
+        },
+        {
+          "category": "Words Containing the Letters G-P-T (in order)",
+          "difficulty": "hard",
+          "words": [
+            "EGYPTIAN",
+            "SCRIPTURE",
+            "RECAPTURING",
+            "ADAPTATION"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111565634,
+      "groups": [
+        {
+          "category": "Terms for a Social Media 'Vibe Check'",
+          "difficulty": "easy",
+          "words": [
+            "MOOD",
+            "ENERGY",
+            "AESTHETIC",
+            "DECORUM"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'DEEPFAKE'",
+          "difficulty": "medium",
+          "words": [
+            "AUDIO",
+            "VIDEO",
+            "NEWS",
+            "DETECTION"
+          ]
+        },
+        {
+          "category": "Words Spelled with a Single 'E' Letter",
+          "difficulty": "hard",
+          "words": [
+            "LEVEL",
+            "DEED",
+            "SLEEVE",
+            "REFEREE"
+          ]
+        },
+        {
+          "category": "____ TUBE (Video Platform Names)",
+          "difficulty": "tricky",
+          "words": [
+            "BRIGHT",
+            "YOU",
+            "FLOAT",
+            "CRACKLE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111573274,
+      "groups": [
+        {
+          "category": "Small Amount",
+          "difficulty": "easy",
+          "words": [
+            "SMIDGE",
+            "WEE",
+            "HAIR",
+            "TOUCH"
+          ]
+        },
+        {
+          "category": "Highest Competitive Video Game Ranks",
+          "difficulty": "medium",
+          "words": [
+            "RADIANT",
+            "PLATINUM",
+            "LEGEND",
+            "CHALLENGER"
+          ]
+        },
+        {
+          "category": "Concepts of Emptiness or Absence in Design",
+          "difficulty": "tricky",
+          "words": [
+            "VOID",
+            "WABI-SABI",
+            "NEGATIVE SPACE",
+            "WHITE SPACE"
+          ]
+        },
+        {
+          "category": "Crypto Slang for Holding Assets",
+          "difficulty": "hard",
+          "words": [
+            "DIAMOND HANDS",
+            "BAGGIE",
+            "MOON",
+            "APE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111576902,
+      "groups": [
+        {
+          "category": "Terms for Curated Playlists",
+          "difficulty": "easy",
+          "words": [
+            "MIXTAPE",
+            "SETLIST",
+            "SOUNDTRACK",
+            "COMPILATION"
+          ]
+        },
+        {
+          "category": "Internet Culture: 'Core' Aesthetics",
+          "difficulty": "medium",
+          "words": [
+            "COTTAGECORE",
+            "GOTHICCORE",
+            "LOFIHIPHOP",
+            "DARKACADEMIA"
+          ]
+        },
+        {
+          "category": "Words That Can Be Preceded by 'SELF-'",
+          "difficulty": "hard",
+          "words": [
+            "CARE",
+            "AWARE",
+            "DESTRUCT",
+            "SOOTHE"
+          ]
+        },
+        {
+          "category": "Verbs for Editing Digital Media",
+          "difficulty": "tricky",
+          "words": [
+            "CROP",
+            "TRIM",
+            "BLEED",
+            "RENDER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111580481,
+      "groups": [
+        {
+          "category": "Terms for a Digital Avatar",
+          "difficulty": "easy",
+          "words": [
+            "ICON",
+            "PFP",
+            "HANDLE",
+            "AVATAR"
+          ]
+        },
+        {
+          "category": "Words Spelled the Same Backwards and Forwards",
+          "difficulty": "medium",
+          "words": [
+            "LEVEL",
+            "MADAM",
+            "REFER",
+            "ROTATOR"
+          ]
+        },
+        {
+          "category": "Verbs That Can Follow 'RAGE'",
+          "difficulty": "hard",
+          "words": [
+            "QUIT",
+            "BAIT",
+            "FARM",
+            "COMBUST"
+          ]
+        },
+        {
+          "category": "____ GAME (Modern Gaming Genres)",
+          "difficulty": "tricky",
+          "words": [
+            "CASUAL",
+            "SOULSLIKE",
+            "ROGUE",
+            "IDLE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111584137,
+      "groups": [
+        {
+          "category": "Terms for a Fake Persona",
+          "difficulty": "easy",
+          "words": [
+            "FINSTA",
+            "CATFISH",
+            "SOCKPUPPET",
+            "IMPERSONATOR"
+          ]
+        },
+        {
+          "category": "Words that precede 'WASH'",
+          "difficulty": "medium",
+          "words": [
+            "BRAIN",
+            "GREEN",
+            "MIND",
+            "WHITE"
+          ]
+        },
+        {
+          "category": "____-VERSE (Fictional Universes)",
+          "difficulty": "hard",
+          "words": [
+            "MISTER",
+            "SPIDER",
+            "TETRA",
+            "NASU"
+          ]
+        },
+        {
+          "category": "Homophones of 'GRIT'",
+          "difficulty": "tricky",
+          "words": [
+            "GREAT",
+            "GRID",
+            "GRATE",
+            "GREET"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111592189,
+      "groups": [
+        {
+          "category": "Smart Device Triggers",
+          "difficulty": "easy",
+          "words": [
+            "ALEXA",
+            "BIXBY",
+            "SIRI",
+            "HEY GOOGLE"
+          ]
+        },
+        {
+          "category": "Verbs/Adjectives Indicating Rapid Scaling",
+          "difficulty": "medium",
+          "words": [
+            "SNOWBALL",
+            "ACCELERATE",
+            "ROCKET",
+            "SCALABLE"
+          ]
+        },
+        {
+          "category": "____ SHOT (Photography/Film Terms)",
+          "difficulty": "hard",
+          "words": [
+            "LONG",
+            "MEDIUM",
+            "CLOSE",
+            "ESTABLISHING"
+          ]
+        },
+        {
+          "category": "User Availability Statuses",
+          "difficulty": "tricky",
+          "words": [
+            "ACTIVE",
+            "OFFLINE",
+            "AWAY",
+            "TYPING"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111595658,
+      "groups": [
+        {
+          "category": "Terms for a Quick Digital Approval",
+          "difficulty": "easy",
+          "words": [
+            "SHIP",
+            "LGTM",
+            "ACK",
+            "APPROVE"
+          ]
+        },
+        {
+          "category": "Things That Are 'Down'",
+          "difficulty": "medium",
+          "words": [
+            "PAYMENT",
+            "FOR WHAT",
+            "THE HATCH",
+            "SYSTEM"
+          ]
+        },
+        {
+          "category": "Words Preceding 'TEST'",
+          "difficulty": "hard",
+          "words": [
+            "PEN",
+            "ACID",
+            "POP",
+            "WET"
+          ]
+        },
+        {
+          "category": "Homophones of US States",
+          "difficulty": "tricky",
+          "words": [
+            "AIR",
+            "CASH",
+            "MAIN",
+            "DELL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111599207,
+      "groups": [
+        {
+          "category": "Terms for a Quick Digital Meeting",
+          "difficulty": "easy",
+          "words": [
+            "SYNC",
+            "HUSTLE",
+            "HUDDLE",
+            "STANDUP"
+          ]
+        },
+        {
+          "category": "Things That Are 'Popped'",
+          "difficulty": "medium",
+          "words": [
+            "COLLAR",
+            "CORN",
+            "CHAMPAGNE",
+            "QUESTION"
+          ]
+        },
+        {
+          "category": "Verbs for Sharing a Link",
+          "difficulty": "hard",
+          "words": [
+            "SLING",
+            "DROP",
+            "FIRE",
+            "PUNT"
+          ]
+        },
+        {
+          "category": "Acronyms in Project Management",
+          "difficulty": "tricky",
+          "words": [
+            "ASAP",
+            "WIP",
+            "KPI",
+            "EOD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111606104,
+      "groups": [
+        {
+          "category": "Terms for Content Going Viral",
+          "difficulty": "easy",
+          "words": [
+            "BLOW UP",
+            "EXPLODE",
+            "POP OFF",
+            "SKYROCKET"
+          ]
+        },
+        {
+          "category": "Initialisms for Common Digital Tasks",
+          "difficulty": "medium",
+          "words": [
+            "DM",
+            "IM",
+            "PM",
+            "TEXT"
+          ]
+        },
+        {
+          "category": "Words Preceding 'CODE'",
+          "difficulty": "hard",
+          "words": [
+            "AREA",
+            "MORSE",
+            "SOURCE",
+            "ZIP"
+          ]
+        },
+        {
+          "category": "____ FEED (Social Media Stream Types)",
+          "difficulty": "tricky",
+          "words": [
+            "ALGORITHM",
+            "NEWS",
+            "THREAD",
+            "TIMELINE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111614508,
+      "groups": [
+        {
+          "category": "Words Following \"DARK\"",
+          "difficulty": "easy",
+          "words": [
+            "MODE",
+            "PATTERN",
+            "MATTER",
+            "WEB"
+          ]
+        },
+        {
+          "category": "Internet Microgenres/Aesthetics",
+          "difficulty": "medium",
+          "words": [
+            "NORMCORE",
+            "VAPORWAVE",
+            "COTTAGECORE",
+            "WITCH HOUSE"
+          ]
+        },
+        {
+          "category": "Programming Languages Named After Nouns",
+          "difficulty": "hard",
+          "words": [
+            "SWIFT",
+            "GO",
+            "RUST",
+            "LISP"
+          ]
+        },
+        {
+          "category": "Words Preceding \"SCAPE\"",
+          "difficulty": "tricky",
+          "words": [
+            "DREAM",
+            "MIND",
+            "CITY",
+            "SOUND"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111621534,
+      "groups": [
+        {
+          "category": "Terms for Removing Digital Clutter",
+          "difficulty": "easy",
+          "words": [
+            "UNFOLLOW",
+            "UNSUBSCRIBE",
+            "ARCHIVE",
+            "MUTE"
+          ]
+        },
+        {
+          "category": "Words Preceding 'HACK'",
+          "difficulty": "medium",
+          "words": [
+            "LIFE",
+            "GROWTH",
+            "SLEEP",
+            "BIO"
+          ]
+        },
+        {
+          "category": "Terms Used to Describe Bad UX/UI",
+          "difficulty": "hard",
+          "words": [
+            "SKEUMORPHISM",
+            "JANKY",
+            "CRONUT",
+            "DARK PATTERN"
+          ]
+        },
+        {
+          "category": "Social Media 'Influencer' Archetypes",
+          "difficulty": "tricky",
+          "words": [
+            "MICRO",
+            "MACRO",
+            "NANO",
+            "MEGA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111629117,
+      "groups": [
+        {
+          "category": "Social Media Interaction Verbs",
+          "difficulty": "easy",
+          "words": [
+            "BLOCK",
+            "GHOST",
+            "MUTE",
+            "TROLL"
+          ]
+        },
+        {
+          "category": "Podcast/Radio Transitional Elements",
+          "difficulty": "hard",
+          "words": [
+            "BUMPERS",
+            "COLD OPEN",
+            "DROP",
+            "STINGER"
+          ]
+        },
+        {
+          "category": "Adjustments in Typography",
+          "difficulty": "medium",
+          "words": [
+            "KERNING",
+            "LEADING",
+            "TRACKING",
+            "WEIGHT"
+          ]
+        },
+        {
+          "category": "Words Following \"VAPOR\"",
+          "difficulty": "tricky",
+          "words": [
+            "LOCK",
+            "TRAIL",
+            "WARE",
+            "WAVE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111636669,
+      "groups": [
+        {
+          "category": "Words Preceded by 'TIN'",
+          "difficulty": "tricky",
+          "words": [
+            "FOIL",
+            "CAN",
+            "SOLDIER",
+            "ROOF"
+          ]
+        },
+        {
+          "category": "Informal Qualitative Measurements",
+          "difficulty": "medium",
+          "words": [
+            "WINK",
+            "HAIR",
+            "SHADE",
+            "TOUCH"
+          ]
+        },
+        {
+          "category": "Standard Punctuation Marks",
+          "difficulty": "easy",
+          "words": [
+            "COLON",
+            "COMMA",
+            "DASH",
+            "PERIOD"
+          ]
+        },
+        {
+          "category": "Elements of Screenwriting Structure",
+          "difficulty": "hard",
+          "words": [
+            "BEAT",
+            "SEQUENCE",
+            "ACT",
+            "SCENE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111644560,
+      "groups": [
+        {
+          "category": "STREAMING PLATFORM FEATURES/ACTIONS",
+          "difficulty": "easy",
+          "words": [
+            "Subtitles",
+            "Buffering",
+            "Skip Intro",
+            "Watch Party"
+          ]
+        },
+        {
+          "category": "MODERN SLANG FOR 'EXCELLENT'",
+          "difficulty": "tricky",
+          "words": [
+            "Dope",
+            "Slaps",
+            "Sick",
+            "Fire"
+          ]
+        },
+        {
+          "category": "INVESTOR MENTALITIES / MARKET SLANG",
+          "difficulty": "medium",
+          "words": [
+            "Mooning",
+            "Bagholding",
+            "Diamond Hands",
+            "FUD"
+          ]
+        },
+        {
+          "category": "WORDS PRECEDING 'CORE' (Aesthetic Subgenres)",
+          "difficulty": "hard",
+          "words": [
+            "Norm",
+            "Gorp",
+            "Cottage",
+            "Kid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111648158,
+      "groups": [
+        {
+          "category": "Terms for Temporary Digital Storage",
+          "difficulty": "easy",
+          "words": [
+            "CACHE",
+            "COOKIE",
+            "BUFFER",
+            "CLIPBOARD"
+          ]
+        },
+        {
+          "category": "Words That Are Also Units of Measurement",
+          "difficulty": "medium",
+          "words": [
+            "OHM",
+            "WATT",
+            "LUX",
+            "AMPERE"
+          ]
+        },
+        {
+          "category": "Verbs for Sharing Digital Content",
+          "difficulty": "hard",
+          "words": [
+            "RETWEET",
+            "REBLOG",
+            "CROSSPOST",
+            "REPOST"
+          ]
+        },
+        {
+          "category": "Eponymous Technological Laws",
+          "difficulty": "tricky",
+          "words": [
+            "METCALFE",
+            "MOORE",
+            "PARKINSON",
+            "MURPHY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111651841,
+      "groups": [
+        {
+          "category": "Words Used in Password Requirements",
+          "difficulty": "easy",
+          "words": [
+            "NUMBER",
+            "UPPERCASE",
+            "SYMBOL",
+            "CHARACTER"
+          ]
+        },
+        {
+          "category": "Verbs for Editing Digital Images",
+          "difficulty": "medium",
+          "words": [
+            "CROP",
+            "FILTER",
+            "RETRENCH",
+            "RESIZE"
+          ]
+        },
+        {
+          "category": "Online Subscription Cancellation Steps",
+          "difficulty": "hard",
+          "words": [
+            "PAUSE",
+            "SURVEY",
+            "PROMPT",
+            "CONFIRM"
+          ]
+        },
+        {
+          "category": "Words Preceding 'FARM'",
+          "difficulty": "tricky",
+          "words": [
+            "SOLAR",
+            "WISH",
+            "CLICK",
+            "WIND"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111658084,
+      "groups": [
+        {
+          "category": "Words Following \"DEEP\"",
+          "difficulty": "hard",
+          "words": [
+            "FAKE",
+            "DIVE",
+            "STATE",
+            "FRY"
+          ]
+        },
+        {
+          "category": "Spreadsheet Operations",
+          "difficulty": "medium",
+          "words": [
+            "FILTER",
+            "SORT",
+            "PIVOT",
+            "VLOOKUP"
+          ]
+        },
+        {
+          "category": "Network Performance Metrics",
+          "difficulty": "medium",
+          "words": [
+            "LATENCY",
+            "THROUGHPUT",
+            "BANDWIDTH",
+            "JITTER"
+          ]
+        },
+        {
+          "category": "Design Aesthetics",
+          "difficulty": "easy",
+          "words": [
+            "BRUTALISM",
+            "MINIMALISM",
+            "BIOPHILIA",
+            "JAPANDI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111661563,
+      "groups": [
+        {
+          "category": "Terms for Content Going Viral",
+          "difficulty": "medium",
+          "words": [
+            "BLOW UP",
+            "HIT BIG",
+            "TAKE OFF",
+            "GO NUCLEAR"
+          ]
+        },
+        {
+          "category": "Words Often Following 'Deepfake'",
+          "difficulty": "easy",
+          "words": [
+            "VIDEO",
+            "AUDIO",
+            "PORN",
+            "AD"
+          ]
+        },
+        {
+          "category": "Phases of Sleep",
+          "difficulty": "hard",
+          "words": [
+            "PARADOXICAL",
+            "DELTA",
+            "REM",
+            "LIGHT"
+          ]
+        },
+        {
+          "category": "Things That Are 'Micro'",
+          "difficulty": "tricky",
+          "words": [
+            "AGGRESSION",
+            "BLOGGING",
+            "PLASTIC",
+            "NEEDLING"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111664955,
+      "groups": [
+        {
+          "category": "Things Found in a Recipe",
+          "difficulty": "easy",
+          "words": [
+            "SALT",
+            "PEPPER",
+            "FLOUR",
+            "SUGAR"
+          ]
+        },
+        {
+          "category": "Synonyms for 'Obsolete' (Tech Context)",
+          "difficulty": "medium",
+          "words": [
+            "LEGACY",
+            "DEFUNCT",
+            "ARCHAIC",
+            "OUTMODED"
+          ]
+        },
+        {
+          "category": "Homophones for Letters of the Alphabet",
+          "difficulty": "hard",
+          "words": [
+            "EYE",
+            "BEE",
+            "SEA",
+            "YOUTH"
+          ]
+        },
+        {
+          "category": "Words Preceding 'FIT'",
+          "difficulty": "tricky",
+          "words": [
+            "OUTFIT",
+            "BENEFIT",
+            "CROSSFIT",
+            "PERFECT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111668021,
+      "groups": [
+        {
+          "category": "Things That Can Be 'Unboxed'",
+          "difficulty": "easy",
+          "words": [
+            "GIFT",
+            "TOY",
+            "PRODUCT",
+            "APPLIANCE"
+          ]
+        },
+        {
+          "category": "Adjectives Describing a Streaming Service Library",
+          "difficulty": "medium",
+          "words": [
+            "VAST",
+            "DEEP",
+            "SHALLOW",
+            "THIN"
+          ]
+        },
+        {
+          "category": "Words That Follow 'Meta'",
+          "difficulty": "hard",
+          "words": [
+            "DATA",
+            "GAME",
+            "PHYSICAL",
+            "COGNITION"
+          ]
+        },
+        {
+          "category": "Homophones for 'I'",
+          "difficulty": "tricky",
+          "words": [
+            "AISLE",
+            "EYE",
+            "ISLE",
+            "AYE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111675990,
+      "groups": [
+        {
+          "category": "Atmosphere or Feeling",
+          "difficulty": "easy",
+          "words": [
+            "AURA",
+            "MOOD",
+            "TONE",
+            "VIBE"
+          ]
+        },
+        {
+          "category": "Verbs Meaning To Wipe/Purge Records",
+          "difficulty": "hard",
+          "words": [
+            "EXPUNGE",
+            "OBLITERATE",
+            "REDACT",
+            "SCRUB"
+          ]
+        },
+        {
+          "category": "Standard Coffee Drink Components",
+          "difficulty": "medium",
+          "words": [
+            "ESPRESSO",
+            "MILK",
+            "SYRUP",
+            "WATER"
+          ]
+        },
+        {
+          "category": "Words Starting With 'NON-'",
+          "difficulty": "tricky",
+          "words": [
+            "NONCHALANT",
+            "NONPLUSSED",
+            "NONSPECIFIC",
+            "NONSTOP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111683100,
+      "groups": [
+        {
+          "category": "Structured Components of an AI Prompt",
+          "difficulty": "easy",
+          "words": [
+            "CONTEXT",
+            "TONE",
+            "ROLE",
+            "FORMAT"
+          ]
+        },
+        {
+          "category": "Typeface Styles",
+          "difficulty": "medium",
+          "words": [
+            "SERIF",
+            "SANS-SERIF",
+            "SCRIPT",
+            "DISPLAY"
+          ]
+        },
+        {
+          "category": "Jargon for Highly Engaging Content",
+          "difficulty": "tricky",
+          "words": [
+            "GRIPPY",
+            "BANGER",
+            "THUMBSTOPPER",
+            "SCROLL-STOPPER"
+          ]
+        },
+        {
+          "category": "Words Preceding \"CORE\" (Internet Aesthetics)",
+          "difficulty": "hard",
+          "words": [
+            "COTTAGE",
+            "GORP",
+            "NORM",
+            "DOOM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111686545,
+      "groups": [
+        {
+          "category": "Terms for Removing Content",
+          "difficulty": "easy",
+          "words": [
+            "SCRUB",
+            "PURGE",
+            "WIPE",
+            "DELETE"
+          ]
+        },
+        {
+          "category": "Words Often Following 'Digital'",
+          "difficulty": "medium",
+          "words": [
+            "TWIN",
+            "NATIVE",
+            "FOOTPRINT",
+            "NOMAD"
+          ]
+        },
+        {
+          "category": "Things That Can Be 'Canceled'",
+          "difficulty": "hard",
+          "words": [
+            "CHECK",
+            "FLIGHT",
+            "SUBSCRIPTION",
+            "NOISE"
+          ]
+        },
+        {
+          "category": "___ MODE (A Setting or State)",
+          "difficulty": "tricky",
+          "words": [
+            "INCOGNITO",
+            "SILENT",
+            "GOD",
+            "DARK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111695488,
+      "groups": [
+        {
+          "category": "Words That Can Follow 'Main Character'",
+          "difficulty": "easy",
+          "words": [
+            "ENERGY",
+            "VIBE",
+            "MOMENT",
+            "SYNDROME"
+          ]
+        },
+        {
+          "category": "Components of Major Social Media Platform Names",
+          "difficulty": "tricky",
+          "words": [
+            "BOOK",
+            "GRAM",
+            "TOK",
+            "TUBE"
+          ]
+        },
+        {
+          "category": "Terms Related to Capturing a Digital Image or Video Frame",
+          "difficulty": "medium",
+          "words": [
+            "CAP",
+            "CLIP",
+            "GRAB",
+            "PRINT"
+          ]
+        },
+        {
+          "category": "Blockchain Transaction Jargon",
+          "difficulty": "hard",
+          "words": [
+            "BURN",
+            "GAS",
+            "MINT",
+            "STAKE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111699068,
+      "groups": [
+        {
+          "category": "Terms for Short-Form Video Content",
+          "difficulty": "easy",
+          "words": [
+            "CLIP",
+            "SNIPPET",
+            "STORY",
+            "VINE"
+          ]
+        },
+        {
+          "category": "Slang for Being Trendy/Cool",
+          "difficulty": "medium",
+          "words": [
+            "FIRE",
+            "GOAT",
+            "SLAY",
+            "WOKE"
+          ]
+        },
+        {
+          "category": "Preceded by 'Deep'",
+          "difficulty": "hard",
+          "words": [
+            "DIVE",
+            "FAKE",
+            "FRY",
+            "THROAT"
+          ]
+        },
+        {
+          "category": "Things That Are 'Cracked'",
+          "difficulty": "tricky",
+          "words": [
+            "CODE",
+            "ICE",
+            "JOKE",
+            "SAFE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111705172,
+      "groups": [
+        {
+          "category": "Network Performance Metrics",
+          "difficulty": "easy",
+          "words": [
+            "Latency",
+            "Throughput",
+            "Bandwidth",
+            "Resolution"
+          ]
+        },
+        {
+          "category": "Goals of Product Design",
+          "difficulty": "medium",
+          "words": [
+            "Usability",
+            "Accessibility",
+            "Learnability",
+            "Desirability"
+          ]
+        },
+        {
+          "category": "Words That Can Follow \"NPC\" (Non-Player Character)",
+          "difficulty": "tricky",
+          "words": [
+            "Behavior",
+            "Energy",
+            "Mindset",
+            "Dialogue"
+          ]
+        },
+        {
+          "category": "Generic Top-Level Domains (gTLDs)",
+          "difficulty": "hard",
+          "words": [
+            "Studio",
+            "Health",
+            "Dating",
+            "Guru"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111713009,
+      "groups": [
+        {
+          "category": "Standard Alert Types in UI/UX Design",
+          "difficulty": "easy",
+          "words": [
+            "SUCCESS",
+            "ERROR",
+            "WARNING",
+            "INFO"
+          ]
+        },
+        {
+          "category": "Preceded by \"SOFT\" (Non-Texture)",
+          "difficulty": "medium",
+          "words": [
+            "LAUNCH",
+            "POWER",
+            "SKILLS",
+            "OPENING"
+          ]
+        },
+        {
+          "category": "Popular Digital Design Software/Tools",
+          "difficulty": "tricky",
+          "words": [
+            "FIGMA",
+            "BLENDER",
+            "SKETCH",
+            "CANVA"
+          ]
+        },
+        {
+          "category": "Things That Are \"Mined\" (Digital/Metaphorical)",
+          "difficulty": "hard",
+          "words": [
+            "DATA",
+            "GOLD",
+            "CRYPTO",
+            "REVIEW"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111716371,
+      "groups": [
+        {
+          "category": "Preceded by 'Stream'",
+          "difficulty": "easy",
+          "words": [
+            "DECK",
+            "LINE",
+            "ER",
+            "ING"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'Virtual'",
+          "difficulty": "medium",
+          "words": [
+            "REALITY",
+            "TOUR",
+            "SIGNATURE",
+            "ASSISTANT"
+          ]
+        },
+        {
+          "category": "Software Release Stages",
+          "difficulty": "hard",
+          "words": [
+            "ALPHA",
+            "BETA",
+            "CANDIDATE",
+            "GENERAL"
+          ]
+        },
+        {
+          "category": "Homophones of Single Letters (Vowels)",
+          "difficulty": "tricky",
+          "words": [
+            "EYE",
+            "ARE",
+            "OH",
+            "WHY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111730337,
+      "groups": [
+        {
+          "category": "ROLES IN CONTENT PRODUCTION",
+          "difficulty": "easy",
+          "words": [
+            "EDITOR",
+            "DIRECTOR",
+            "PRODUCER",
+            "WRITER"
+          ]
+        },
+        {
+          "category": "PRECEDES \"MODE\"",
+          "difficulty": "medium",
+          "words": [
+            "FOCUS",
+            "CINEMA",
+            "INCOGNITO",
+            "DARK"
+          ]
+        },
+        {
+          "category": "BRANDING ADJECTIVES FOR SOPHISTICATION",
+          "difficulty": "hard",
+          "words": [
+            "SLEEK",
+            "ELEVATED",
+            "CHIC",
+            "MUTE"
+          ]
+        },
+        {
+          "category": "VERBS MEANING TO ABANDON A PROJECT",
+          "difficulty": "tricky",
+          "words": [
+            "PULL",
+            "SHELVE",
+            "SCRAP",
+            "CANCEL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111733841,
+      "groups": [
+        {
+          "category": "Words That Can Follow 'Meme'",
+          "difficulty": "easy",
+          "words": [
+            "COIN",
+            "LORD",
+            "STOCK",
+            "MAGIC"
+          ]
+        },
+        {
+          "category": "Terms for Digital Art Styles/Movements",
+          "difficulty": "medium",
+          "words": [
+            "FRUTIGER",
+            "GLITCH",
+            "VAPORWAVE",
+            "Y2K"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Synthesized/Created Digitally'",
+          "difficulty": "hard",
+          "words": [
+            "RENDERED",
+            "GENERATED",
+            "SYNTHETIC",
+            "PROCEDURAL"
+          ]
+        },
+        {
+          "category": "Homophones of Single Letters (Consonants)",
+          "difficulty": "tricky",
+          "words": [
+            "DEAL",
+            "EYES",
+            "QUEUE",
+            "ARE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111737211,
+      "groups": [
+        {
+          "category": "Preceded by 'Deep'",
+          "difficulty": "easy",
+          "words": [
+            "FAKE",
+            "LEARNING",
+            "THOUGHT",
+            "DIVE"
+          ]
+        },
+        {
+          "category": "Terms Related to Algorithmic Bias",
+          "difficulty": "medium",
+          "words": [
+            "DRIFT",
+            "EXPLAINABILITY",
+            "FAIRNESS",
+            "AUDIT"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'Prompt'",
+          "difficulty": "hard",
+          "words": [
+            "ENGINEERING",
+            "BOOK",
+            "CARD",
+            "FADE"
+          ]
+        },
+        {
+          "category": "Sound/Audio Terminology (Digital)",
+          "difficulty": "tricky",
+          "words": [
+            "LATENCY",
+            "DITHER",
+            "JITTER",
+            "CLIP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111740628,
+      "groups": [
+        {
+          "category": "Words That Can Follow 'Dark'",
+          "difficulty": "easy",
+          "words": [
+            "HORSE",
+            "WEB",
+            "MATTER",
+            "MODE"
+          ]
+        },
+        {
+          "category": "Adjectives Describing Digital Velocity",
+          "difficulty": "medium",
+          "words": [
+            "BLAZING",
+            "INSTANT",
+            "SEAMLESS",
+            "FLUID"
+          ]
+        },
+        {
+          "category": "Tech Slang for Acknowledging Information",
+          "difficulty": "hard",
+          "words": [
+            "COPY",
+            "ROGER",
+            "TEN4",
+            "AFFIRMATIVE"
+          ]
+        },
+        {
+          "category": "Things That Are 'Forked' (Tech/Code Related)",
+          "difficulty": "tricky",
+          "words": [
+            "REPO",
+            "BRANCH",
+            "CHAIN",
+            "PROTOCOL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111754368,
+      "groups": [
+        {
+          "category": "Preceded by 'Gen'",
+          "difficulty": "easy",
+          "words": [
+            "ALPHA",
+            "Z",
+            "NEXT",
+            "X"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Large Language Model'",
+          "difficulty": "medium",
+          "words": [
+            "ORACLE",
+            "MAGE",
+            "SAGE",
+            "TITAN"
+          ]
+        },
+        {
+          "category": "Verbs for Sharing Digital Files",
+          "difficulty": "hard",
+          "words": [
+            "AIRDROP",
+            "SEED",
+            "UPLOAD",
+            "PUSH"
+          ]
+        },
+        {
+          "category": "Types of Neural Networks (Abbreviations)",
+          "difficulty": "tricky",
+          "words": [
+            "RNN",
+            "GAN",
+            "CNN",
+            "DNN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111757753,
+      "groups": [
+        {
+          "category": "Words That Can Precede 'Verse'",
+          "difficulty": "easy",
+          "words": [
+            "OMNI",
+            "MULTI",
+            "SPATIAL",
+            "META"
+          ]
+        },
+        {
+          "category": "Adjectives Describing A.I. Capabilities",
+          "difficulty": "medium",
+          "words": [
+            "EMERGENT",
+            "CONTEXTUAL",
+            "ADAPTIVE",
+            "COHERENT"
+          ]
+        },
+        {
+          "category": "Tech Slang for 'High Quality/Authentic'",
+          "difficulty": "hard",
+          "words": [
+            "DOPAMINE",
+            "CRISP",
+            "GOATED",
+            "CLEAN"
+          ]
+        },
+        {
+          "category": "Homophones of Numerical Digits",
+          "difficulty": "tricky",
+          "words": [
+            "AIDE",
+            "SCENE",
+            "FOR",
+            "WON"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111761130,
+      "groups": [
+        {
+          "category": "Preceded by 'Unreal'",
+          "difficulty": "medium",
+          "words": [
+            "ENGINE",
+            "SALES",
+            "TOUR",
+            "DEAL"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Trend' or 'Popularity'",
+          "difficulty": "easy",
+          "words": [
+            "BUZZ",
+            "WAVE",
+            "MOMENT",
+            "VIBE"
+          ]
+        },
+        {
+          "category": "Nouns That Can Be Verbs in UI/UX Design",
+          "difficulty": "hard",
+          "words": [
+            "TOGGLE",
+            "BUTTON",
+            "RENDER",
+            "SCROLL"
+          ]
+        },
+        {
+          "category": "Slang for Money",
+          "difficulty": "tricky",
+          "words": [
+            "DOUGH",
+            "CASH",
+            "STASH",
+            "MINT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111764621,
+      "groups": [
+        {
+          "category": "Terms Related to Web3/Blockchain Identity",
+          "difficulty": "medium",
+          "words": [
+            "SEED",
+            "KEY",
+            "WALLET",
+            "PASSPHRASE"
+          ]
+        },
+        {
+          "category": "Units of Digital Audio Delay",
+          "difficulty": "hard",
+          "words": [
+            "SAMPLES",
+            "MILLISECONDS",
+            "FRAMES",
+            "PULSES"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'Content'",
+          "difficulty": "easy",
+          "words": [
+            "CREATOR",
+            "FARM",
+            "MODERATION",
+            "STRATEGY"
+          ]
+        },
+        {
+          "category": "____ Protocol (Networking/Security)",
+          "difficulty": "tricky",
+          "words": [
+            "HANDSHAKE",
+            "GOPHER",
+            "TRANSPORT",
+            "TELNET"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111768122,
+      "groups": [
+        {
+          "category": "Terms Related to User Experience (UX)",
+          "difficulty": "easy",
+          "words": [
+            "AESTHETICS",
+            "AFFORDANCE",
+            "DISCOVERY",
+            "USABILITY"
+          ]
+        },
+        {
+          "category": "Preceded by 'Cloud'",
+          "difficulty": "medium",
+          "words": [
+            "AGNOSTIC",
+            "BURSTING",
+            "NATIVE",
+            "SEEDING"
+          ]
+        },
+        {
+          "category": "Homophones of US States",
+          "difficulty": "hard",
+          "words": [
+            "KANSAS",
+            "MAINE",
+            "OREGON",
+            "UTAH"
+          ]
+        },
+        {
+          "category": "Words for 'Fixing' or 'Debugging' Code",
+          "difficulty": "tricky",
+          "words": [
+            "PATCH",
+            "QUASH",
+            "SQUASH",
+            "TRIAGE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111771522,
+      "groups": [
+        {
+          "category": "Terms for 'Small Piece of Data'",
+          "difficulty": "easy",
+          "words": [
+            "CHUNK",
+            "SNIPPET",
+            "FRAGMENT",
+            "PACKET"
+          ]
+        },
+        {
+          "category": "____-Fidelity (Design & Testing)",
+          "difficulty": "medium",
+          "words": [
+            "LOW",
+            "HIGH",
+            "MID",
+            "NO"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Synthesized/Fake'",
+          "difficulty": "hard",
+          "words": [
+            "IMPOSTER",
+            "HYBRID",
+            "SIMULACRUM",
+            "SUBSTITUTE"
+          ]
+        },
+        {
+          "category": "Can Precede 'Drive'",
+          "difficulty": "tricky",
+          "words": [
+            "SANDBOX",
+            "HARD",
+            "TEST",
+            "OVER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111774969,
+      "groups": [
+        {
+          "category": "Terms for 'Digital Footprint'",
+          "difficulty": "easy",
+          "words": [
+            "DATA",
+            "IMPRESSION",
+            "LOG",
+            "TRACE"
+          ]
+        },
+        {
+          "category": "Words that can follow 'Meta'",
+          "difficulty": "medium",
+          "words": [
+            "COGNITION",
+            "DATA",
+            "GAME",
+            "TAG"
+          ]
+        },
+        {
+          "category": "Synonyms for 'Deleting' Digital Content",
+          "difficulty": "hard",
+          "words": [
+            "ARCHIVE",
+            "DECOMMISSION",
+            "PURGE",
+            "SCRUB"
+          ]
+        },
+        {
+          "category": "Verbs for 'Generating' AI Output",
+          "difficulty": "tricky",
+          "words": [
+            "BAKE",
+            "COMPOSE",
+            "RENDER",
+            "SPIN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111778505,
+      "groups": [
+        {
+          "category": "Terms Related to 'Open Source'",
+          "difficulty": "easy",
+          "words": [
+            "FORK",
+            "PULL",
+            "BRANCH",
+            "REPO"
+          ]
+        },
+        {
+          "category": "Verbs for 'Scrolling' on a Screen",
+          "difficulty": "medium",
+          "words": [
+            "SWIPE",
+            "FLICK",
+            "GLIDE",
+            "SCROLL"
+          ]
+        },
+        {
+          "category": "Things That Are \"Baked In\"",
+          "difficulty": "hard",
+          "words": [
+            "LATENT",
+            "INHERENT",
+            "NATIVE",
+            "IMPLICIT"
+          ]
+        },
+        {
+          "category": "____-Bot (Automated Programs)",
+          "difficulty": "tricky",
+          "words": [
+            "CHAT",
+            "TRADE",
+            "SPAM",
+            "CRAWLER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111786527,
+      "groups": [
+        {
+          "category": "Social Media Engagement Metrics",
+          "difficulty": "easy",
+          "words": [
+            "LIKE",
+            "SHARE",
+            "SAVE",
+            "COMMENT"
+          ]
+        },
+        {
+          "category": "Words That Precede \"Core\"",
+          "difficulty": "hard",
+          "words": [
+            "APPLE",
+            "HARD",
+            "ROGUE",
+            "SOFT"
+          ]
+        },
+        {
+          "category": "Modern Programming Languages",
+          "difficulty": "medium",
+          "words": [
+            "GO",
+            "KOTLIN",
+            "RUST",
+            "SWIFT"
+          ]
+        },
+        {
+          "category": "Elements of Gaming/Streaming",
+          "difficulty": "tricky",
+          "words": [
+            "EMOTE",
+            "PING",
+            "SKIN",
+            "TIER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111793442,
+      "groups": [
+        {
+          "category": "Terms Related to NFTs",
+          "difficulty": "easy",
+          "words": [
+            "MINT",
+            "GAS",
+            "UTILITY",
+            "ROYALTIES"
+          ]
+        },
+        {
+          "category": "Suffixes Forming Nouns from Verbs",
+          "difficulty": "medium",
+          "words": [
+            "ANCE",
+            "MENT",
+            "TION",
+            "URE"
+          ]
+        },
+        {
+          "category": "____-Cycle (Stages or Phases)",
+          "difficulty": "hard",
+          "words": [
+            "LIFE",
+            "WATER",
+            "FEEDBACK",
+            "PRODUCT"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Exceptional' or 'Peak'",
+          "difficulty": "tricky",
+          "words": [
+            "SLAY",
+            "GOAT",
+            "ICONIC",
+            "FIRE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111797059,
+      "groups": [
+        {
+          "category": "Terms for 'Hidden' Features/Content",
+          "difficulty": "medium",
+          "words": [
+            "EASTER EGG",
+            "SECRET",
+            "REDACTED",
+            "STASH"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Immediately'",
+          "difficulty": "easy",
+          "words": [
+            "NOW",
+            "ASAP",
+            "INSTANTLY",
+            "PRONTO"
+          ]
+        },
+        {
+          "category": "Starts with a US State Abbreviation",
+          "difficulty": "hard",
+          "words": [
+            "CODEPENDENT",
+            "ARTISAN",
+            "WASP",
+            "IDAHO"
+          ]
+        },
+        {
+          "category": "____-Flipping (Quick Financial Gain)",
+          "difficulty": "tricky",
+          "words": [
+            "HOUSE",
+            "RETAIL",
+            "NFT",
+            "TICKET"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111800474,
+      "groups": [
+        {
+          "category": "Terms for a 'Project Launch'",
+          "difficulty": "easy",
+          "words": [
+            "DEPLOY",
+            "ROLLOUT",
+            "RELEASE",
+            "GO-LIVE"
+          ]
+        },
+        {
+          "category": "Words that precede 'Stack'",
+          "difficulty": "medium",
+          "words": [
+            "FULL",
+            "TECH",
+            "MEAN",
+            "LAMP"
+          ]
+        },
+        {
+          "category": "Verbs for Editing Video/Audio Content",
+          "difficulty": "hard",
+          "words": [
+            "TRIM",
+            "SCRUB",
+            "DAW",
+            "RENDER"
+          ]
+        },
+        {
+          "category": "____-Farm (Data Centers/Content Generation)",
+          "difficulty": "tricky",
+          "words": [
+            "CLICK",
+            "SERVER",
+            "RENDER",
+            "CONTENT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111804000,
+      "groups": [
+        {
+          "category": "Terms for Removing Data",
+          "difficulty": "easy",
+          "words": [
+            "WIPE",
+            "PURGE",
+            "SCRUB",
+            "ERASE"
+          ]
+        },
+        {
+          "category": "Homophones for Letters of the Alphabet",
+          "difficulty": "medium",
+          "words": [
+            "SEA",
+            "EYE",
+            "BEE",
+            "ARE"
+          ]
+        },
+        {
+          "category": "Units of Digital Storage (Slang/Informal)",
+          "difficulty": "hard",
+          "words": [
+            "GIG",
+            "TERA",
+            "PETA",
+            "EXA"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Copy' or 'Imitate'",
+          "difficulty": "tricky",
+          "words": [
+            "MIRROR",
+            "CLONE",
+            "ECHO",
+            "DUPLICATE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111807593,
+      "groups": [
+        {
+          "category": "Terms for a Digital Avatar's Appearance",
+          "difficulty": "easy",
+          "words": [
+            "SKIN",
+            "COSMETIC",
+            "EMOTE",
+            "OUTFIT"
+          ]
+        },
+        {
+          "category": "Words That Can Follow \"Deep\"",
+          "difficulty": "medium",
+          "words": [
+            "LEARNING",
+            "DIVE",
+            "FAKE",
+            "FRY"
+          ]
+        },
+        {
+          "category": "Synonyms for 'Spam' or Unsolicited Content",
+          "difficulty": "hard",
+          "words": [
+            "JUNK",
+            "MALWARE",
+            "GARBAGE",
+            "CRAP"
+          ]
+        },
+        {
+          "category": "Internet Slang: 'Feeling' or 'Vibe'",
+          "difficulty": "tricky",
+          "words": [
+            "AESTHETIC",
+            "ENERGY",
+            "MOOD",
+            "FEELS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111811170,
+      "groups": [
+        {
+          "category": "Terms for Content Going Viral",
+          "difficulty": "easy",
+          "words": [
+            "BLOW UP",
+            "EXPLODE",
+            "POP OFF",
+            "TAKE OFF"
+          ]
+        },
+        {
+          "category": "Words Spoken by an AI Assistant",
+          "difficulty": "medium",
+          "words": [
+            "AFFIRMATIVE",
+            "CONFIRMING",
+            "ROGER",
+            "UNDERSTOOD"
+          ]
+        },
+        {
+          "category": "Starts with a Type of Social Media Post",
+          "difficulty": "hard",
+          "words": [
+            "STORYTIME",
+            "REELING",
+            "POSTMORTEM",
+            "THREADBARE"
+          ]
+        },
+        {
+          "category": "Things That Are 'Live'",
+          "difficulty": "tricky",
+          "words": [
+            "WIRE",
+            "AUDIENCE",
+            "STREAM",
+            "PERFORMANCE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111818323,
+      "groups": [
+        {
+          "category": "UX DARK PATTERNS (Deceptive Design)",
+          "difficulty": "tricky",
+          "words": [
+            "Roach Motel",
+            "Forced Continuity",
+            "Misdirection",
+            "Nagging"
+          ]
+        },
+        {
+          "category": "WORDS THAT CAN PRECEDE \"CORE\"",
+          "difficulty": "medium",
+          "words": [
+            "Hardcore",
+            "Softcore",
+            "Multicore",
+            "Datacore"
+          ]
+        },
+        {
+          "category": "PORTMANTEAUS (BLENDED WORDS)",
+          "difficulty": "hard",
+          "words": [
+            "Sitcom",
+            "Brunch",
+            "Motel",
+            "Smog"
+          ]
+        },
+        {
+          "category": "ALTERNATIVE MILK BASES",
+          "difficulty": "easy",
+          "words": [
+            "Oat",
+            "Almond",
+            "Soy",
+            "Coconut"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111821806,
+      "groups": [
+        {
+          "category": "Words That Can Follow \"Crypto\"",
+          "difficulty": "easy",
+          "words": [
+            "WALLET",
+            "MINING",
+            "BROKER",
+            "EXCHANGE"
+          ]
+        },
+        {
+          "category": "File Types Used for Images/Graphics",
+          "difficulty": "medium",
+          "words": [
+            "PNG",
+            "SVG",
+            "TIFF",
+            "WEBP"
+          ]
+        },
+        {
+          "category": "Synonyms for 'Perfect' or 'Ideal'",
+          "difficulty": "hard",
+          "words": [
+            "FLAWLESS",
+            "TEXTBOOK",
+            "PICTURE",
+            "SPOTLESS"
+          ]
+        },
+        {
+          "category": "Things That Are \"Baked\"",
+          "difficulty": "tricky",
+          "words": [
+            "GOODS",
+            "ALASKA",
+            "POTATO",
+            "NARRATIVE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111825288,
+      "groups": [
+        {
+          "category": "Terms for an Online Persona/Identity",
+          "difficulty": "easy",
+          "words": [
+            "HANDLE",
+            "ALIAS",
+            "PSEUDONYM",
+            "SCREEN NAME"
+          ]
+        },
+        {
+          "category": "Words That Follow 'Meta'",
+          "difficulty": "medium",
+          "words": [
+            "DATA",
+            "PHYSICAL",
+            "VERSE",
+            "TAG"
+          ]
+        },
+        {
+          "category": "Slang for 'Excellent' or 'Impressive'",
+          "difficulty": "hard",
+          "words": [
+            "FIRE",
+            "SLAPS",
+            "GOATED",
+            "BUSSIN"
+          ]
+        },
+        {
+          "category": "Things That Are 'Streamed'",
+          "difficulty": "tricky",
+          "words": [
+            "WATER",
+            "MUSIC",
+            "CONSCIOUSNESS",
+            "VIDEO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111828637,
+      "groups": [
+        {
+          "category": "Terms Used in Podcasting",
+          "difficulty": "easy",
+          "words": [
+            "FADE",
+            "DROP",
+            "STINGER",
+            "AD"
+          ]
+        },
+        {
+          "category": "Words That Can Precede 'Filter'",
+          "difficulty": "medium",
+          "words": [
+            "COFFEE",
+            "AIR",
+            "SUGAR",
+            "CONTENT"
+          ]
+        },
+        {
+          "category": "Things That Are 'Compressed'",
+          "difficulty": "hard",
+          "words": [
+            "GAS",
+            "ARCHIVE",
+            "TIME",
+            "SPRING"
+          ]
+        },
+        {
+          "category": "Homophones of US States",
+          "difficulty": "tricky",
+          "words": [
+            "ORE",
+            "MALE",
+            "NEW",
+            "MASS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111831801,
+      "groups": [
+        {
+          "category": "WORDS THAT ARE 'DOWN' BUT MEAN 'GOOD'",
+          "difficulty": "easy",
+          "words": [
+            "DOPE",
+            "RAD",
+            "LIT",
+            "FIRE"
+          ]
+        },
+        {
+          "category": "PREFIXES FOR GEOGRAPHIC/DIGITAL LOCATION",
+          "difficulty": "medium",
+          "words": [
+            "GEO",
+            "LOC",
+            "TELE",
+            "CYBER"
+          ]
+        },
+        {
+          "category": "HOMOPHONES OF MUSICAL NOTES (DO, RE, MI, FA...)",
+          "difficulty": "hard",
+          "words": [
+            "TEA",
+            "DOE",
+            "SEA",
+            "MILE"
+          ]
+        },
+        {
+          "category": "TERMS FOR DELETING YOUR ACCOUNT/PRESENCE",
+          "difficulty": "tricky",
+          "words": [
+            "NUKING",
+            "PURGE",
+            "DEACTIVATE",
+            "GO DARK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111839017,
+      "groups": [
+        {
+          "category": "Terms Often Preceded by 'UP'",
+          "difficulty": "tricky",
+          "words": [
+            "FESS",
+            "DRESS",
+            "LIGHT",
+            "SHUT"
+          ]
+        },
+        {
+          "category": "Words That Precede 'CORE' (Internet Aesthetics)",
+          "difficulty": "medium",
+          "words": [
+            "NORM",
+            "COTTAGE",
+            "GRANDMA",
+            "CABIN"
+          ]
+        },
+        {
+          "category": "Surnames Used as Famous Literary Pen Names",
+          "difficulty": "hard",
+          "words": [
+            "ORWELL",
+            "CARROLL",
+            "TWAIN",
+            "ELIOT"
+          ]
+        },
+        {
+          "category": "Placeholder or Dummy Content Names",
+          "difficulty": "easy",
+          "words": [
+            "JANE",
+            "FOO",
+            "LOREM",
+            "IPSUM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111842618,
+      "groups": [
+        {
+          "category": "Words That Precede 'Tok'",
+          "difficulty": "easy",
+          "words": [
+            "CLOCK",
+            "GIF",
+            "LIVE",
+            "SEA"
+          ]
+        },
+        {
+          "category": "Verbs for Editing Digital Content",
+          "difficulty": "medium",
+          "words": [
+            "CROP",
+            "DUB",
+            "MUTE",
+            "TRIM"
+          ]
+        },
+        {
+          "category": "Adjectives Describing Digital Lag",
+          "difficulty": "hard",
+          "words": [
+            "FROZEN",
+            "GLITCHY",
+            "STUTTERY",
+            "WOBBLY"
+          ]
+        },
+        {
+          "category": "Things That Are 'Air' (e.g., AirTag)",
+          "difficulty": "tricky",
+          "words": [
+            "BUDS",
+            "DROP",
+            "POD",
+            "SHARE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111846196,
+      "groups": [
+        {
+          "category": "Terms for an Obsessive Fandom",
+          "difficulty": "medium",
+          "words": [
+            "STAN",
+            "WEEB",
+            "BLINK",
+            "ARMY"
+          ]
+        },
+        {
+          "category": "Words Often Followed by 'Max'",
+          "difficulty": "easy",
+          "words": [
+            "CAPACITY",
+            "VOLUME",
+            "VELOCITY",
+            "STRENGTH"
+          ]
+        },
+        {
+          "category": "Internet Slang for Being Emotionally Affected",
+          "difficulty": "hard",
+          "words": [
+            "SENT",
+            "DEVOURED",
+            "SHOOK",
+            "SLAYED"
+          ]
+        },
+        {
+          "category": "Types of Digital Wallet",
+          "difficulty": "tricky",
+          "words": [
+            "CRYPTO",
+            "HARDWARE",
+            "PAPER",
+            "CUSTODIAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111849514,
+      "groups": [
+        {
+          "category": "Terms for Content That Goes Viral",
+          "difficulty": "easy",
+          "words": [
+            "BUZZ",
+            "HIT",
+            "POP",
+            "TREND"
+          ]
+        },
+        {
+          "category": "Words Often Preceded by 'Selfie'",
+          "difficulty": "medium",
+          "words": [
+            "ARM",
+            "LIGHT",
+            "RING",
+            "STICK"
+          ]
+        },
+        {
+          "category": "Four-Letter Words That Are Also Internet Domains (.com)",
+          "difficulty": "hard",
+          "words": [
+            "BING",
+            "ETSY",
+            "HUGE",
+            "ZING"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'Dark' (Digital or Physical)",
+          "difficulty": "tricky",
+          "words": [
+            "FIBER",
+            "MODE",
+            "POST",
+            "WEB"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111852896,
+      "groups": [
+        {
+          "category": "Terms for a Temporary Digital Account",
+          "difficulty": "medium",
+          "words": [
+            "BURNER",
+            "GUEST",
+            "DUMMY",
+            "ALT"
+          ]
+        },
+        {
+          "category": "Words That Precede 'STREAM'",
+          "difficulty": "easy",
+          "words": [
+            "LIVE",
+            "DOWN",
+            "MAIN",
+            "UP"
+          ]
+        },
+        {
+          "category": "Words That Sound Like Letters",
+          "difficulty": "hard",
+          "words": [
+            "QUEUE",
+            "EYE",
+            "ARE",
+            "SEA"
+          ]
+        },
+        {
+          "category": "Verbs for Removing Content from the Internet",
+          "difficulty": "tricky",
+          "words": [
+            "SCRUB",
+            "WIPE",
+            "DEINDEX",
+            "PULL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111856356,
+      "groups": [
+        {
+          "category": "Terms for a Digital Avatar",
+          "difficulty": "easy",
+          "words": [
+            "ICON",
+            "PFP",
+            "HANDLE",
+            "PROFILE"
+          ]
+        },
+        {
+          "category": "Words Often Followed by 'Farming' (Online Games/Crypto)",
+          "difficulty": "medium",
+          "words": [
+            "GOLD",
+            "YIELD",
+            "RMT",
+            "XP"
+          ]
+        },
+        {
+          "category": "Aesthetic Terms for 'Gloomy' or 'Gritty'",
+          "difficulty": "hard",
+          "words": [
+            "MIST",
+            "GRUNGE",
+            "GOTH",
+            "DOOM"
+          ]
+        },
+        {
+          "category": "Homophones That Sound Like Digital Actions",
+          "difficulty": "tricky",
+          "words": [
+            "QUEUE",
+            "CITE",
+            "BYTES",
+            "LINKED"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111859951,
+      "groups": [
+        {
+          "category": "Terms for a Quick, Casual Meal",
+          "difficulty": "easy",
+          "words": [
+            "GRAB",
+            "BITE",
+            "SNACK",
+            "NIBBLE"
+          ]
+        },
+        {
+          "category": "Words Preceding 'Core' (Aesthetic or Genre)",
+          "difficulty": "medium",
+          "words": [
+            "COTTAGE",
+            "NORMIE",
+            "GOTH",
+            "CABIN"
+          ]
+        },
+        {
+          "category": "Ways to Indicate a Lack of Knowledge (Initialisms)",
+          "difficulty": "hard",
+          "words": [
+            "NFI",
+            "IDK",
+            "¯\\_(ツ)_/¯",
+            "WIBTA"
+          ]
+        },
+        {
+          "category": "___ AND DROP (Software or Design Term)",
+          "difficulty": "tricky",
+          "words": [
+            "DRAG",
+            "PICK",
+            "LIFT",
+            "DOCK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111863106,
+      "groups": [
+        {
+          "category": "Verbs for Sharing Digital Content",
+          "difficulty": "easy",
+          "words": [
+            "POST",
+            "SEND",
+            "SHARE",
+            "UPLOAD"
+          ]
+        },
+        {
+          "category": "Words That Follow 'Hyper'",
+          "difficulty": "medium",
+          "words": [
+            "FOCUS",
+            "LINK",
+            "LOOP",
+            "REALISTIC"
+          ]
+        },
+        {
+          "category": "Terms for an AI-Generated Image",
+          "difficulty": "hard",
+          "words": [
+            "DEEPFAKE",
+            "GENART",
+            "SYNTHOGRAPH",
+            "VISUALIZED"
+          ]
+        },
+        {
+          "category": "Acronyms for Digital Communication Statuses",
+          "difficulty": "tricky",
+          "words": [
+            "BRB",
+            "GTG",
+            "OOMF",
+            "TLDR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111869949,
+      "groups": [
+        {
+          "category": "Components of a URL",
+          "difficulty": "tricky",
+          "words": [
+            "PROTOCOL",
+            "FRAGMENT",
+            "PATH",
+            "QUERY"
+          ]
+        },
+        {
+          "category": "Unboxing Video Vocabulary",
+          "difficulty": "medium",
+          "words": [
+            "PEEL",
+            "REVEAL",
+            "ASMR",
+            "SATISFYING"
+          ]
+        },
+        {
+          "category": "Digital Critique and Retort Slang",
+          "difficulty": "hard",
+          "words": [
+            "RATIO",
+            "SHADE",
+            "CLAPBACK",
+            "ROAST"
+          ]
+        },
+        {
+          "category": "Tiers of Subscription Service",
+          "difficulty": "easy",
+          "words": [
+            "PRO",
+            "PLUS",
+            "PREMIUM",
+            "GOLD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111873642,
+      "groups": [
+        {
+          "category": "Terms for a Quick Digital Trend",
+          "difficulty": "easy",
+          "words": [
+            "FAD",
+            "VIRAL",
+            "BUZZ",
+            "TREND"
+          ]
+        },
+        {
+          "category": "Words That Precede 'FILTER' (Photography/Social Media)",
+          "difficulty": "medium",
+          "words": [
+            "LENS",
+            "BEAUTY",
+            "FACE",
+            "PRISM"
+          ]
+        },
+        {
+          "category": "Methods of Subtle Digital Influence",
+          "difficulty": "hard",
+          "words": [
+            "ASTROTURF",
+            "SHILLING",
+            "PLANTING",
+            "WORMING"
+          ]
+        },
+        {
+          "category": "Terms for a Dedicated Digital Fandom",
+          "difficulty": "tricky",
+          "words": [
+            "STAN",
+            "ARMY",
+            "FLEET",
+            "HIVE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111877153,
+      "groups": [
+        {
+          "category": "Terms for Content Designed to Incite Anger",
+          "difficulty": "easy",
+          "words": [
+            "BAIT",
+            "FLAMEBAIT",
+            "RAGEBAIT",
+            "CLICKBAIT"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'Dark'",
+          "difficulty": "medium",
+          "words": [
+            "MODE",
+            "HORSE",
+            "WEB",
+            "PATTERNS"
+          ]
+        },
+        {
+          "category": "Verbs Meaning 'To Secretly Monitor or Observe'",
+          "difficulty": "hard",
+          "words": [
+            "LURK",
+            "STALK",
+            "SCRAPE",
+            "VET"
+          ]
+        },
+        {
+          "category": "___ BLOCK (Digital Platform Features)",
+          "difficulty": "tricky",
+          "words": [
+            "SHADOW",
+            "SOFT",
+            "PERMA",
+            "GEO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111880321,
+      "groups": [
+        {
+          "category": "Words Preceding 'Mode'",
+          "difficulty": "easy",
+          "words": [
+            "BEAST",
+            "ZEN",
+            "ECO",
+            "NIGHT"
+          ]
+        },
+        {
+          "category": "Terms for a Brief, Catchy Audio Segment",
+          "difficulty": "medium",
+          "words": [
+            "SOUNDBITE",
+            "VINE",
+            "JINGLE",
+            "MEME"
+          ]
+        },
+        {
+          "category": "Digital Content That Mimics Early Web Design",
+          "difficulty": "hard",
+          "words": [
+            "CRINGEBAIT",
+            "GEOCITIES",
+            "VAPORWAVE",
+            "FRUTIGER"
+          ]
+        },
+        {
+          "category": "Things That Are 'Too'...",
+          "difficulty": "tricky",
+          "words": [
+            "LONG",
+            "SHORT",
+            "MUCH",
+            "SOON"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111883870,
+      "groups": [
+        {
+          "category": "Words Spoken By Tech Influencers",
+          "difficulty": "easy",
+          "words": [
+            "FIRST",
+            "LOOK",
+            "THOUGHTS",
+            "REVIEW"
+          ]
+        },
+        {
+          "category": "Words That Follow 'Uncanny'",
+          "difficulty": "medium",
+          "words": [
+            "VALLEY",
+            "RESSEMBLANCE",
+            "MOMENT",
+            "REALISM"
+          ]
+        },
+        {
+          "category": "Digital Metrics Indicating Decline",
+          "difficulty": "hard",
+          "words": [
+            "CHURN",
+            "DIP",
+            "DROP_OFF",
+            "RETRACTION"
+          ]
+        },
+        {
+          "category": "Homophones for Musical Notation",
+          "difficulty": "tricky",
+          "words": [
+            "CLEF",
+            "TIE",
+            "REST",
+            "NATURAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111887433,
+      "groups": [
+        {
+          "category": "Words That Precede 'CORE' (Aesthetic Subgenres)",
+          "difficulty": "easy",
+          "words": [
+            "COTTAGE",
+            "GOTH",
+            "NORM",
+            "VAPOR"
+          ]
+        },
+        {
+          "category": "Terms Related to Algorithmic Feedback Loops",
+          "difficulty": "medium",
+          "words": [
+            "ECHO",
+            "BUBBLE",
+            "WELL",
+            "CHAMBER"
+          ]
+        },
+        {
+          "category": "Verbs Meaning 'To Optimize for Display'",
+          "difficulty": "hard",
+          "words": [
+            "CURATE",
+            "PACKAGE",
+            "FRAME",
+            "STYLING"
+          ]
+        },
+        {
+          "category": "Digital Design Terms (Typography)",
+          "difficulty": "tricky",
+          "words": [
+            "KERN",
+            "TRACK",
+            "LEAD",
+            "WIDOW"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111890934,
+      "groups": [
+        {
+          "category": "Terms for a Generative AI System",
+          "difficulty": "easy",
+          "words": [
+            "MODEL",
+            "ENGINE",
+            "BOT",
+            "AGENT"
+          ]
+        },
+        {
+          "category": "Words That Precede 'PUNK' (Sci-Fi Subgenres)",
+          "difficulty": "medium",
+          "words": [
+            "CYBER",
+            "STEAMPUNK",
+            "DIESEL",
+            "SOLAR"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Quick, Disposable Digital Interaction'",
+          "difficulty": "hard",
+          "words": [
+            "FLING",
+            "SNACK",
+            "HIT",
+            "NIBBLE"
+          ]
+        },
+        {
+          "category": "Words That Follow 'GLITCH'",
+          "difficulty": "tricky",
+          "words": [
+            "CORE",
+            "WAVE",
+            "ART",
+            "TECH"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111894497,
+      "groups": [
+        {
+          "category": "Terms for Intentional Digital Inclusivity",
+          "difficulty": "medium",
+          "words": [
+            "ACCESSIBLE",
+            "EQUITABLE",
+            "INCLUSIVE",
+            "UNIVERSAL"
+          ]
+        },
+        {
+          "category": "Words That Follow 'RED' (Common Digital Icons/Symbols)",
+          "difficulty": "easy",
+          "words": [
+            "DOT",
+            "FLAG",
+            "HEART",
+            "RING"
+          ]
+        },
+        {
+          "category": "Prefixes Indicating Large-Scale Data Handling",
+          "difficulty": "tricky",
+          "words": [
+            "MEGA",
+            "PETA",
+            "TERA",
+            "YOTTA"
+          ]
+        },
+        {
+          "category": "Verbs Meaning 'To Erase or Remove Digital Data'",
+          "difficulty": "hard",
+          "words": [
+            "ANNIHILATE",
+            "DECOMMISSION",
+            "EXPUNGE",
+            "WIPE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111904890,
+      "groups": [
+        {
+          "category": "Adjectives Describing Successful AI Models",
+          "difficulty": "easy",
+          "words": [
+            "ROBUST",
+            "SCALABLE",
+            "GENERALIZED",
+            "EFFICIENT"
+          ]
+        },
+        {
+          "category": "Things That Are 'Viral' (Digital Spread)",
+          "difficulty": "medium",
+          "words": [
+            "THREAD",
+            "MEME",
+            "CHALLENGE",
+            "SOUND"
+          ]
+        },
+        {
+          "category": "Words That Precede 'FARM' (Digital Infrastructure/Content)",
+          "difficulty": "hard",
+          "words": [
+            "CLICK",
+            "SERVER",
+            "RENDER",
+            "CONTENT"
+          ]
+        },
+        {
+          "category": "Verbs for Adjusting Digital Color/Light",
+          "difficulty": "tricky",
+          "words": [
+            "SATURATE",
+            "TINT",
+            "HUE",
+            "DESATURATE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111908345,
+      "groups": [
+        {
+          "category": "Words Meaning 'To Generate Digital Art'",
+          "difficulty": "easy",
+          "words": [
+            "MINT",
+            "RENDER",
+            "STABLE",
+            "DREAM"
+          ]
+        },
+        {
+          "category": "Terms Related to Web3 Identity",
+          "difficulty": "medium",
+          "words": [
+            "AVATAR",
+            "WALLET",
+            "SEED",
+            "NONCE"
+          ]
+        },
+        {
+          "category": "Suffixes Indicating Community/Platform",
+          "difficulty": "hard",
+          "words": [
+            "VERSE",
+            "CORD",
+            "STACK",
+            "HUB"
+          ]
+        },
+        {
+          "category": "Things That Are 'Dead' (Technical/Digital Stagnation)",
+          "difficulty": "tricky",
+          "words": [
+            "LINK",
+            "PIXEL",
+            "CODE",
+            "LOCK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111911797,
+      "groups": [
+        {
+          "category": "Terms for Intentional Digital Inclusivity",
+          "difficulty": "medium",
+          "words": [
+            "ACCESSIBLE",
+            "EQUITABLE",
+            "INCLUSIVE",
+            "UNIVERSAL"
+          ]
+        },
+        {
+          "category": "Words Meaning 'Quick, Disposable Digital Interaction'",
+          "difficulty": "easy",
+          "words": [
+            "FLEETING",
+            "EPHEMERAL",
+            "INSTANT",
+            "PASSING"
+          ]
+        },
+        {
+          "category": "Words That Precede 'CORE' (Aesthetic Subgenres)",
+          "difficulty": "hard",
+          "words": [
+            "COTTAGE",
+            "VAPOR",
+            "CYBER",
+            "GOTH"
+          ]
+        },
+        {
+          "category": "Terms Related to Algorithmic Feedback Loops",
+          "difficulty": "tricky",
+          "words": [
+            "ECHO",
+            "FILTER",
+            "REINFORCEMENT",
+            "SELECTION"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111915295,
+      "groups": [
+        {
+          "category": "Words That Precede 'GRID'",
+          "difficulty": "easy",
+          "words": [
+            "SMART",
+            "POWER",
+            "MICRO",
+            "OFF"
+          ]
+        },
+        {
+          "category": "Terms for Digital Ownership (NFT/Web3)",
+          "difficulty": "medium",
+          "words": [
+            "MINT",
+            "BURN",
+            "HODL",
+            "GAS"
+          ]
+        },
+        {
+          "category": "Verbs for Aggressive Digital Marketing/PR",
+          "difficulty": "hard",
+          "words": [
+            "SPIN",
+            "AMPLIFY",
+            "SEIZE",
+            "DOMINATE"
+          ]
+        },
+        {
+          "category": "Terms That Follow 'DARK'",
+          "difficulty": "tricky",
+          "words": [
+            "MODE",
+            "WEB",
+            "POST",
+            "PATTERNS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111918960,
+      "groups": [
+        {
+          "category": "Terms for Digital Footprint Mitigation",
+          "difficulty": "medium",
+          "words": [
+            "SCRUB",
+            "WIPE",
+            "PURGE",
+            "ERASE"
+          ]
+        },
+        {
+          "category": "Words That Follow 'GHOST'",
+          "difficulty": "easy",
+          "words": [
+            "WRITER",
+            "TOWN",
+            "BUSTER",
+            "SHIP"
+          ]
+        },
+        {
+          "category": "Adjectives Describing Successful AI Output",
+          "difficulty": "hard",
+          "words": [
+            "ORGANIC",
+            "HUMANLIKE",
+            "SEAMLESS",
+            "NATURALISTIC"
+          ]
+        },
+        {
+          "category": "Verbs for Aggressive Digital Messaging",
+          "difficulty": "tricky",
+          "words": [
+            "SPAM",
+            "PING",
+            "BLAST",
+            "SINK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111944149,
+      "groups": [
+        {
+          "category": "Materials Used for Stuffing/Padding",
+          "difficulty": "easy",
+          "words": [
+            "FOAM",
+            "COTTON",
+            "DOWN",
+            "BATTING"
+          ]
+        },
+        {
+          "category": "Secondary Residential Structures",
+          "difficulty": "medium",
+          "words": [
+            "CARRIAGE",
+            "IN_LAW",
+            "GUEST",
+            "ADU"
+          ]
+        },
+        {
+          "category": "Words That Follow \"Cultural\"",
+          "difficulty": "tricky",
+          "words": [
+            "CAPITAL",
+            "SHOCK",
+            "APPROPRIATION",
+            "HEGEMONY"
+          ]
+        },
+        {
+          "category": "Portmanteau (Blended Words)",
+          "difficulty": "hard",
+          "words": [
+            "BRUNCH",
+            "SMOG",
+            "MOTORCADE",
+            "MOCKTAIL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111951857,
+      "groups": [
+        {
+          "category": "Adjectives for Excellent User Experience (UX)",
+          "difficulty": "hard",
+          "words": [
+            "ELEGANT",
+            "INTUITIVE",
+            "ROBUST",
+            "SEAMLESS"
+          ]
+        },
+        {
+          "category": "Terms That Precede 'Check'",
+          "difficulty": "easy",
+          "words": [
+            "FACT",
+            "REALITY",
+            "VIBE",
+            "WELLNESS"
+          ]
+        },
+        {
+          "category": "Actions Used to Curate Your Digital Feed",
+          "difficulty": "medium",
+          "words": [
+            "ARCHIVE",
+            "MUTE",
+            "SNOOZE",
+            "UNFOLLOW"
+          ]
+        },
+        {
+          "category": "Tech Terms That Are Also Everyday Objects",
+          "difficulty": "tricky",
+          "words": [
+            "CLOUD",
+            "COOKIE",
+            "PING",
+            "STREAM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111958900,
+      "groups": [
+        {
+          "category": "Common Digital Initialisms",
+          "difficulty": "easy",
+          "words": [
+            "ETA",
+            "TMI",
+            "ICYMI",
+            "RN"
+          ]
+        },
+        {
+          "category": "Slang Terms for Holding Speculative Assets",
+          "difficulty": "hard",
+          "words": [
+            "BAG",
+            "HODL",
+            "MOON",
+            "DIAMOND HANDS"
+          ]
+        },
+        {
+          "category": "Words That Follow \"DEEP\"",
+          "difficulty": "tricky",
+          "words": [
+            "FAKE",
+            "DIVE",
+            "STATE",
+            "POCKET"
+          ]
+        },
+        {
+          "category": "Typography and Layout Terms",
+          "difficulty": "medium",
+          "words": [
+            "KERNING",
+            "LEADING",
+            "LIGATURE",
+            "WIDOW"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111962389,
+      "groups": [
+        {
+          "category": "Terms for Removing Content Online",
+          "difficulty": "easy",
+          "words": [
+            "SCRUB",
+            "WIPE",
+            "ERASE",
+            "DELETE"
+          ]
+        },
+        {
+          "category": "Words That Follow 'RED'",
+          "difficulty": "medium",
+          "words": [
+            "HERRING",
+            "TAPE",
+            "FLAG",
+            "MEAT"
+          ]
+        },
+        {
+          "category": "Tech Slang for Going Viral",
+          "difficulty": "hard",
+          "words": [
+            "BLOW UP",
+            "CATCH FIRE",
+            "HIT DIFFERENT",
+            "POP OFF"
+          ]
+        },
+        {
+          "category": "Homophones of Numerical Digits",
+          "difficulty": "tricky",
+          "words": [
+            "FORE",
+            "WON",
+            "ATE",
+            "TOO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111965905,
+      "groups": [
+        {
+          "category": "Terms for Hyperbolic Self-Promotion",
+          "difficulty": "medium",
+          "words": [
+            "SLAY",
+            "EAT",
+            "ATE",
+            "DEVOUR"
+          ]
+        },
+        {
+          "category": "Words That Follow 'COGNITIVE'",
+          "difficulty": "easy",
+          "words": [
+            "LOAD",
+            "BIAS",
+            "DISSONANCE",
+            "SURPLUS"
+          ]
+        },
+        {
+          "category": "Types of Short-Form Video Content",
+          "difficulty": "tricky",
+          "words": [
+            "BITE",
+            "VINE",
+            "REEL",
+            "TIKTOK"
+          ]
+        },
+        {
+          "category": "Homophones of Proper Names",
+          "difficulty": "hard",
+          "words": [
+            "ALEXA",
+            "MAYA",
+            "LIAM",
+            "SAWYER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111981321,
+      "groups": [
+        {
+          "category": "Features Found in a Mindfulness or Meditation App",
+          "difficulty": "easy",
+          "words": [
+            "CALM",
+            "FOCUS",
+            "BREATHE",
+            "STREAK"
+          ]
+        },
+        {
+          "category": "Homophones of Units of Measurement",
+          "difficulty": "tricky",
+          "words": [
+            "WEAK",
+            "HOUR",
+            "MINUET",
+            "SCENT"
+          ]
+        },
+        {
+          "category": "Words That Precede 'BOMB'",
+          "difficulty": "hard",
+          "words": [
+            "F",
+            "GLITTER",
+            "TRUTH",
+            "SNOW"
+          ]
+        },
+        {
+          "category": "Specific Internet Aesthetic Styles",
+          "difficulty": "medium",
+          "words": [
+            "VAPORWAVE",
+            "NORMCORE",
+            "DARK ACADEMIA",
+            "COTTAGECORE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111984861,
+      "groups": [
+        {
+          "category": "Terms for Misleading or Inauthentic Online Activity",
+          "difficulty": "easy",
+          "words": [
+            "BOT",
+            "CATFISH",
+            "SHILL",
+            "ASTROTURF"
+          ]
+        },
+        {
+          "category": "Words That Can Follow 'META'",
+          "difficulty": "medium",
+          "words": [
+            "DATA",
+            "PHYSICS",
+            "NARRATIVE",
+            "VERSE"
+          ]
+        },
+        {
+          "category": "Things That Are 'UNBOXED'",
+          "difficulty": "hard",
+          "words": [
+            "TRUCKER",
+            "PRIEST",
+            "WEDDING",
+            "WRESTLER"
+          ]
+        },
+        {
+          "category": "Acronyms for Digital Assets/Collections",
+          "difficulty": "tricky",
+          "words": [
+            "BAYC",
+            "PFP",
+            "CC0",
+            "ENS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111988436,
+      "groups": [
+        {
+          "category": "Words that are also programming languages",
+          "difficulty": "easy",
+          "words": [
+            "SWIFT",
+            "SCALA",
+            "GO",
+            "RUST"
+          ]
+        },
+        {
+          "category": "Terms related to asynchronous communication",
+          "difficulty": "medium",
+          "words": [
+            "LAG",
+            "PING",
+            "LATENCY",
+            "SYNC"
+          ]
+        },
+        {
+          "category": "____ CORE (Essential elements)",
+          "difficulty": "hard",
+          "words": [
+            "HARD",
+            "SOFT",
+            "APPLE",
+            "GENUINE"
+          ]
+        },
+        {
+          "category": "Homophones of celestial bodies",
+          "difficulty": "tricky",
+          "words": [
+            "MERCURY",
+            "JUPITER",
+            "MARS",
+            "VENUS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111991918,
+      "groups": [
+        {
+          "category": "Terms for Removing People from a Digital Space",
+          "difficulty": "easy",
+          "words": [
+            "BLOCK",
+            "MUTE",
+            "UNFOLLOW",
+            "KICK"
+          ]
+        },
+        {
+          "category": "Words That Precede 'CHIP'",
+          "difficulty": "medium",
+          "words": [
+            "POTATO",
+            "MICRO",
+            "BLUE",
+            "FISH"
+          ]
+        },
+        {
+          "category": "____ GAME (Terms for High Stakes Situations)",
+          "difficulty": "hard",
+          "words": [
+            "END",
+            "LONG",
+            "HEAD",
+            "A"
+          ]
+        },
+        {
+          "category": "Homophones of US State Capitals",
+          "difficulty": "tricky",
+          "words": [
+            "ROUGE",
+            "BOYS",
+            "DOG",
+            "FLEW"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111995213,
+      "groups": [
+        {
+          "category": "Words that can follow 'FLOP'",
+          "difficulty": "easy",
+          "words": [
+            "HOUSE",
+            "SWEAT",
+            "DISK",
+            "EARS"
+          ]
+        },
+        {
+          "category": "Terms for an Unexpected Viral Hit",
+          "difficulty": "medium",
+          "words": [
+            "SLEEPER",
+            "DARK HORSE",
+            "OUT OF NOWHERE",
+            "SURPRISE SENSATION"
+          ]
+        },
+        {
+          "category": "Phrases for 'Under Scrutiny'",
+          "difficulty": "hard",
+          "words": [
+            "IN THE SPOTLIGHT",
+            "UNDER A MICROSCOPE",
+            "ON THE HOT SEAT",
+            "UNDER THE LENS"
+          ]
+        },
+        {
+          "category": "___ GRIND (Difficult, Repetitive Activity)",
+          "difficulty": "tricky",
+          "words": [
+            "DAILY",
+            "SIDE",
+            "HUSTLE",
+            "MEMBER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1766111998870,
+      "groups": [
+        {
+          "category": "Terms for Extreme Temperature",
+          "difficulty": "easy",
+          "words": [
+            "SCALDING",
+            "ICY",
+            "FROSTY",
+            "BLAZING"
+          ]
+        },
+        {
+          "category": "Words that precede 'FIT'",
+          "difficulty": "medium",
+          "words": [
+            "SLIM",
+            "CUSTOM",
+            "STRESS",
+            "PERFECT"
+          ]
+        },
+        {
+          "category": "___ MODE (Device Settings)",
+          "difficulty": "hard",
+          "words": [
+            "DARK",
+            "AIRPLANE",
+            "INCOGNITO",
+            "SILENT"
+          ]
+        },
+        {
+          "category": "Anagrams of Musical Instruments",
+          "difficulty": "tricky",
+          "words": [
+            "CALVO",
+            "CABAL",
+            "CRANE",
+            "CORTINA"
+          ]
+        }
+      ]
     }
   ],
   "dailyPuzzles": {}
